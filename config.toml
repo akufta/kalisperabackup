@@ -12,7 +12,7 @@ tag = "tags"
 [params]
 
 	title = "Kalispera"
-	subtitle = " A place for science, art, and life"
+	subtitle = " A blog about science, art, and society."
 	copyright = "[theme](https://github.com/digitalcraftsman/hugo-steam-theme) | [hugo](https://gohugo.io/) | [netlify](https://www.netlify.com/)"
 
 	# You can choose between green, orange, red and blue.
