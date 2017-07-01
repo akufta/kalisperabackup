@@ -1,4 +1,4 @@
-baseurl = "https://kalispera.netlify.com/"
+baseurl = "https://kalispera.netlify.com"
 languageCode = "en-us"
 title = "Kalispera"
 theme = "hugo-steam-theme"
@@ -22,8 +22,8 @@ tag = "tags"
 
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
-	name = "Tomáš Tomeček"
-	bio = "Software Engineer. Coder. Beer drinker. Teacher. Speaker. Hacker."
+	name = "Aky"
+	bio = "Runner -  Artist-  Writer- Nature & Coffee lover"
 	description = "Blog about science, art, technology, issues, and society"
 	location = "US"
 	twitter = ""
