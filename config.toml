@@ -1,8 +1,8 @@
-baseurl = "http://blog.tomecek.net/"
+baseurl = "https://kalispera.netlify.com/"
 languageCode = "en-us"
-title = "Blog | Tomáš Tomeček"
+title = "Kalispera"
 theme = "hugo-steam-theme"
-disqusShortname = "tomastomecek"
+disqusShortname = "kalispera"
 paginate = 7
 
 [taxonomies]
@@ -11,23 +11,24 @@ tag = "tags"
 
 [params]
 
-	title = "Tomáš Tomeček"
-	subtitle = "blog"
+	title = "Kalispera"
+	subtitle = " A place for science, art, and life"
 	copyright = "[theme](https://github.com/digitalcraftsman/hugo-steam-theme) | [hugo](https://gohugo.io/) | [netlify](https://www.netlify.com/)"
 
 	# You can choose between green, orange, red and blue.
-	themeColor = "green"
+	themeColor = "blue"
 	# Enable Google Analytics be inserting your tracking code
-	googleAnalytics = "UA-51950913-1"
+	googleAnalytics = ""
 
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
 	name = "Tomáš Tomeček"
 	bio = "Software Engineer. Coder. Beer drinker. Teacher. Speaker. Hacker."
-	description = "Technical blog. Read about Linux, Python, Docker, Red Hat, Fedora."
-	location = "Brno, Czech Republic"
-	twitter = "TomasTomec"
-	github = "TomasTomecek"
+	description = "Blog about science, art, technology, issues, and society"
+	location = "US"
+	twitter = ""
+	github = ""
+	instagram = "astrikos.art"
 
 	# Enable a comment system
 	# You can choose between Disqus or Google Plus by setting comments
