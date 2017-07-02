@@ -1,4 +1,0 @@
-backend:
-  name: github
-  repo: astrikoscode/kalispera # Path to your Github repository
-  branch: master # Branch to update
