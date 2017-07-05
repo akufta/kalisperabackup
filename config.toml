@@ -1,4 +1,4 @@
-baseurl = "https://www.astrikos.me/"
+baseurl = "https:/kalispera.netlify.com/"
 languageCode = "en-us"
 title = "Kalispera"
 theme = "hugo-steam-theme"
